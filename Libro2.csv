@@ -1,5 +1,5 @@
 producto,estrato,porcentaje_de_consumo_familia,consumo_promedio_mensual,unidad_de_medida
-Pollo;1;1;10.31;Kg
+Pollo,1,1,10.31,Kg
 Arroz_seco;1;1;15;Kg
 Sal;1;1;3.24;Kg
 Papa;1;0.98;7.11;Kg
